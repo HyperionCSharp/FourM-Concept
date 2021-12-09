@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "cassert": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
